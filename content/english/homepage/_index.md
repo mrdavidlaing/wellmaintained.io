@@ -2,7 +2,10 @@
 # Banner
 banner:
   title: "the Well Maintained Community"
-  content: "brings together Software-as-a-Service (SaaS) Developers in fear of their next production outage to share, support and learn together, so that their services become well maintained, secure, low toil and they can sleep easy at night."
+  content: "brings together <span class='highlight-yellow'>Software-as-a-Service (SaaS) Developers</span>
+  in <span class='highlight-red'>fear of their next production outage</span> 
+  <br/>to share, support and learn together, 
+  <br/>so that their services become <span class='highlight-green'>well maintained, secure, low toil and they can sleep easy at night</span>."
   image: "/images/banner.png"
   button:
     enable: true
