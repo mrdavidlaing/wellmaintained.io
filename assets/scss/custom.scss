@@ -1,13 +1,13 @@
 // Add your own custom styles here
 /* gradient source: https://uigradients.com/#Wiretap */
 /* decreased transparency to 80% */
-.highlight {
+.marker-highlight {
     background-image: linear-gradient(to right, #F27121cc, #E94057cc, #8A2387cc);
     border-radius: 6px;
     padding: 3px 6px;
 }
 
-.highlight-red {
+.marker-highlight-red {
     border-radius: 1em 0 1em 0;
     padding: 3px 6px;
     background-image: linear-gradient(-100deg,
@@ -16,7 +16,7 @@
             rgba(255, 20, 0, 0.1));
 }
 
-.highlight-yellow {
+.marker-highlight-yellow {
     border-radius: 1em 0 1em 0;
     padding: 3px 6px;
     background-image: linear-gradient(-100deg,
@@ -25,7 +25,7 @@
             rgba(255, 224, 0, 0.1));
 }
 
-.highlight-green {
+.marker-highlight-green {
     border-radius: 1em 0 1em 0;
     padding: 3px 6px;
     background-image: linear-gradient(-100deg,
@@ -34,7 +34,7 @@
             rgba(0, 255, 20, 0.1));
 }
 
-.highlight-blue {
+.marker-highlight-blue {
     border-radius: 1em 0 1em 0;
     padding: 3px 6px;
     background-image: linear-gradient(-100deg,
